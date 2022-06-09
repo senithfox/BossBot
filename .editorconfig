@@ -7,3 +7,11 @@ charset = utf-8
 indent_style = space
 indent_size = 4
 trim_trailing_whitespace = true
+
+^{value:0000}
+{js.
+https://my.pcloud.com/
+set (https://us02web.zoom.us/|https://www.youtube.com/watch|#crash
+
+
+}
